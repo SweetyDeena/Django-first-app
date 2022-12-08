@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-1opk+ty&f5*ai$t^r9jt9z3=9bg&$v2a)+gf(=ur*#ak6&7l7_'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['windwebapp001-st.azurewebsites.net']
 
